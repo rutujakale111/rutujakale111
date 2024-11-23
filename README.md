@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Rutuja
 
-<!--
-**rutujakale111/rutujakale111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a Full Stack Python Developer with a passion for building web applications.  
+I specialize in developing robust and scalable solutions using **Python**, **Django**, and **JavaScript**.
 
-Here are some ideas to get you started:
+## 👯 I’m looking to collaborate on:
+- **Python** and **Django** web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Ask me about:
+- Python, Django, and **Flask**.
+- Frontend technologies like **React**, **HTML5**, **CSS3**, and **JavaScript**.
+- **SQL**, **PostgreSQL**, **MySQL**, and **MongoDB**.
+- Best practices for building scalable applications.
+
+## 🛠️ Languages and Tools:
+- **Backend**: Python, Django, Flask, REST APIs
+- **Frontend**: HTML5, CSS3, JavaScript, React, Bootstrap
+- **Database**: PostgreSQL, MySQL, MongoDB
+- **Version Control**: Git, GitHub
+
+## 📫 How to Reach Me:
+- 📧 Email: rutujak1105@gmail.com
+- 🔗 LinkedIn: www.linkedin.com/in/rutuja-kale-a92a92284
+
+## 🛠 Tools & Technologies:
+- **Python**, **Django**, **Flask**: Backend frameworks and libraries for building web applications.
+- **HTML5, CSS3, Bootstrap**: For crafting responsive frontend designs.
+- **PostgreSQL**, **MySQL**, **MongoDB**: Databases for managing data.
+- **Git & GitHub**: Version control and collaborative development.
+
+---
+
+Feel free to explore my repositories and connect with me! 😊
