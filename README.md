@@ -4,35 +4,38 @@ I specialize in developing robust and scalable solutions using **Python**, **Dja
 
 <h3 align="center"> 👨‍💻 All of my projects are available at [https://github.com/rutujakale111]</h3>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 <p align="center"></a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
+<h3 align="center">👯 I’m looking to collaborate on</h3>
+<h5 align="center">- **Python** and **Django**,**Html**,**Html 5**,**Css**,**JavaScript**,**Bootstrap**,**Sql** web applications.</h5>
 
-## 👯 I’m looking to collaborate on:
-- **Python** and **Django**,**Html**,**Html 5**,**Css**,**JavaScript**,**Bootstrap**,**Sql** web applications.
-
-## 💬 Ask me about:
+<h3 align="center"> 💬 Ask me about</h3>
+<h5 align="center"> 
 - Python, Django.
 - Frontend technologies like **HTML5**, **CSS3**, and **JavaScript**,**Bootstrap**,**Sql**.
 - **SQL**, **PostgreSQL**, **MySQL**, and **MongoDB**.
-- Best practices for building scalable applications.
+- Best practices for building scalable applications.</h5>
 
-## 🛠️ Languages and Tools:
+<h3 align="center">🛠️ Languages and Tools</h3>
+<h5 align="center"> 
 - **Backend**: Python, Django, Flask, REST APIs
 - **Frontend**: HTML5, CSS3, JavaScript,Bootstrap.
 - **Database**: PostgreSQL, MySQL, MongoDB
-- **Version Control**: Git, GitHub
+- **Version Control**: Git, GitHub</h5>
 
-## 📫 How to Reach Me:
+<h3 align="center">📫 How to Reach Me</h3>
+<h5 align="center"> 
 - 📧 Email: rutujak1105@gmail.com
-- 🔗 LinkedIn: www.linkedin.com/in/rutuja-kale-a92a92284
+- 🔗 LinkedIn: www.linkedin.com/in/rutuja-kale-a92a92284</h5>
 
-## 🛠 Tools & Technologies:
+<h3 align="center">🛠 Tools & Technologies</h3>
+<h5 align="center"> 
 - **Python**, **Django**, **Flask**: Backend frameworks and libraries for building web applications.
 - **HTML5, CSS3, Bootstrap**: For crafting responsive frontend designs.
 - **PostgreSQL**, **MySQL**, **MongoDB**: Databases for managing data.
-- **Git & GitHub**: Version control and collaborative development.
+- **Git & GitHub**: Version control and collaborative development.</h5>
 
 ---
 
-Feel free to explore my repositories and connect with me! 😊
+<h5 align="center">Feel free to explore my repositories and connect with me! 😊</h5>
