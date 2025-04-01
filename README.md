@@ -15,6 +15,8 @@ I specialize in developing robust and scalable solutions using **Python**, **Dja
  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Logo" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="ReactJS Logo" width="50">
  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github Logo" width="50"> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node logo" width="70">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express Logo" width="90">
 
 </p>
 
