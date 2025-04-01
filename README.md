@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rutuja</h1>
+<h1 align="center">Hi 👋, I'm Rutuja 👨‍💻</h1>
 <h3 align="center">Welcome to my GitHub! I'm a Full Stack Python Developer with a passion for building web applications.  
 I specialize in developing robust and scalable solutions using **Python**, **Django**,**Html**,**Html 5**,**Css**,**JavaScript**,**Bootstrap**,**Sql**.</h3>
-
-<h3 align="center"> 👨‍💻 All of my projects are available at [https://github.com/rutujakale111]</h3>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center"></a> 
