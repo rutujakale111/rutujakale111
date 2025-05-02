@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rutuja 👨‍💻</h1>
 <h3 align="center">Welcome to my GitHub! I'm a Full Stack Python Developer with a passion for building web applications.  
-I specialize in developing robust and scalable solutions using **Python**, **Django**,**Html**,**Html 5**,**Css**,**JavaScript**,**Bootstrap**,**Sql**,**php**,**React JS**,**Node JS**,**Express JS**,**MongoDB**,**Redux.JS**.</h3>
+I specialize in developing robust and scalable solutions using Python, Django,Html,Html 5,Css,JavaScript,Bootstrap,Sql,php,React JS,Node JS,Express JS,MongoDB,Redux.JS.</h3>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center"></a> 
