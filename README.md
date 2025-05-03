@@ -1,54 +1,94 @@
-<h1 align="center">Hi 👋, I'm Rutuja 👨‍💻</h1>
-<h3 align="center">Welcome to my GitHub! I'm a Full Stack Python Developer with a passion for building web applications.  
-I specialize in developing robust and scalable solutions using Python, Django,Html,Html 5,Css,JavaScript,Bootstrap,Sql,php,React JS,Node JS,Express JS,MongoDB,Redux.JS.</h3>
+<h1 align="center">Hi 👋, I'm Rutuja</h1>
+<h3 align="center">Full Stack Python Developer | Django Developer | Web Enthusiast </h3>
 
-<h3 align="center">Languages and Tools</h3>
-<p align="center"></a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<img src="https://www.mongodb.com/assets/images/global/favicon.ico" alt="Mongodb logo" width="50">
-<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn Logo" width="100">
-<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas Logo" width="50">
-<img src="https://numpy.org/images/logo.svg" alt="NumPy Logo" width="50">
-<img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap Logo" width="50">
-<img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="Django Logo" width="50">
- <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Logo" width="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="ReactJS Logo" width="50">
- <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github Logo" width="50"> 
- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node logo" width="70">
- <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express Logo" width="90">
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub!;Full+Stack+Python+Developer;Passionate+Web+App+Builder" alt="Typing SVG" />
 </p>
-
-<h3 align="center">👯 I’m looking to collaborate on</h3>
-<h5 align="center">- **Python** and **Django**,**Html**,**Html 5**,**Css**,**JavaScript**,**Bootstrap**,**Sql** web applications.</h5>
-
-<h3 align="center"> 💬 Ask me about</h3>
-<h5 align="center"> 
-- Python, Django.
-- Frontend technologies like **HTML5**, **CSS3**, and **JavaScript**,**Bootstrap**,**Sql**.
-- **SQL**, **PostgreSQL**, **MySQL**, and **MongoDB**.
-- Best practices for building scalable applications.</h5>
-
-<h3 align="center">🛠️ Languages and Tools</h3>
-<h5 align="center"> 
-- **Backend**: Python, Django, Flask, REST APIs
-- **Frontend**: HTML5, CSS3, JavaScript,Bootstrap.
-- **Database**: PostgreSQL, MySQL, MongoDB
-- **Version Control**: Git, GitHub</h5>
-
-<h3 align="center">📫 How to Reach Me</h3>
-<h5 align="center"> 
-- 📧 Email: rutujak1105@gmail.com
-- 🔗 LinkedIn: www.linkedin.com/in/rutuja-kale-a92a92284</h5>
-
-<h3 align="center">🛠 Tools & Technologies</h3>
-<h5 align="center"> 
-- **Python**, **Django**, **Flask**: Backend frameworks and libraries for building web applications.
-- **HTML5, CSS3, Bootstrap**: For crafting responsive frontend designs.
-- **PostgreSQL**, **MySQL**, **MongoDB**: Databases for managing data.
-- **Git & GitHub**: Version control and collaborative development.</h5>
 
 ---
 
-<h5 align="center">Feel free to explore my repositories and connect with me! 😊</h5>
+<h2 align="center">🚀 About Me</h2>
+<p align="center">
+  I'm a <strong>Full Stack Python Developer</strong> passionate about building <strong>robust</strong>, <strong>scalable</strong>, and <strong>user-friendly</strong> web applications.<br>
+  I enjoy turning ideas into reality using technologies like Python, Django, JavaScript, and React.
+</p>
+
+---
+
+<h2 align="center">💻 Tech Stack</h2>
+<p align="center">
+  <strong>Backend:</strong> Python, Django, Flask, REST APIs<br>
+  <strong>Frontend:</strong> HTML5, CSS3, JavaScript, Bootstrap, React.js, Redux.js<br>
+  <strong>Databases:</strong> MySQL, PostgreSQL, MongoDB<br>
+  <strong>Tools:</strong> Git, GitHub, Node.js, Express.js, VS Code<br>
+  <strong>Data Tools:</strong> NumPy, Pandas, Seaborn
+</p>
+
+---
+
+<h2 align="center">🤝 Looking to Collaborate On</h2>
+<p align="center">
+  Python & Django Projects<br>
+  Full-Stack Web Applications using HTML, CSS, JS, Bootstrap, SQL
+</p>
+
+---
+
+<h2 align="center">💬 Ask Me About</h2>
+<p align="center">
+  Backend development with Python, Django & Flask<br>
+  Frontend: HTML5, CSS3, JavaScript, Bootstrap<br>
+  Databases: SQL, MySQL, PostgreSQL, MongoDB<br>
+  Best Practices for Scalable Applications
+</p>
+
+---
+
+<h2 align="center">📫 How to Reach Me</h2>
+<p align="center">
+  📧 <a href="mailto:rutujak1105@gmail.com">rutujak1105@gmail.com</a><br>
+  🔗 <a href="https://www.linkedin.com/in/rutuja-kale-a92a92284">linkedin.com/in/rutuja-kale-a92a92284</a>
+</p>
+
+---
+
+<h2 align="center">🛠 Languages & Tools</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Redux.js-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge"/>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rutujakale&show_icons=true&theme=radical" alt="rutuja's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutujakale&theme=radical" alt="rutuja's GitHub streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujakale&layout=compact&theme=radical" width="40%" />
+</p>
+
+---
+
+<h2 align="center">✨ Thank You for Visiting!</h2>
+<p align="center">Feel free to ⭐ any project or connect with me! Let’s build something awesome together 🚀</p>
+
